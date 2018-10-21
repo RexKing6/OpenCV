@@ -1,3 +1,5 @@
 # opencv
+
 opencv+vs2013
-一些demo，学到一半就没学了。
+
+一些demo，当时学到一半就没学了……
